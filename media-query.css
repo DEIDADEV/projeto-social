@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 0px) and (max-width: 768px) { /* PARA TELAS MENORES */
+
+    section#telefone {
+        width: 70%;
+        height: 100%;
+    }
+
+}
