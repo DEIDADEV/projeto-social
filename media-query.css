@@ -2,9 +2,8 @@
 
 @media screen and (min-width: 0px) and (max-width: 768px) { /* PARA TELAS MENORES */
 
-    div#teste {
-        width: 120vw;
-        height: 100vh;
+    section#telefone {
+        left: 100px;
     }
 
 }
