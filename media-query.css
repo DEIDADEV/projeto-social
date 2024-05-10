@@ -3,7 +3,7 @@
 @media screen and (min-width: 0px) and (max-width: 768px) { /* PARA TELAS MENORES */
 
     section#telefone {
-        width: 70%;
+        width: 100vw;
         height: 100%;
     }
 
