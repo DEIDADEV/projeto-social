@@ -2,8 +2,9 @@
 
 @media screen and (min-width: 0px) and (max-width: 768px) { /* PARA TELAS MENORES */
 
-    section#redes-sociais {
-        margin-left: 20px;
+    div#teste {
+        width: 120vw;
+        height: 100vh;
     }
 
 }
