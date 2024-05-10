@@ -4,5 +4,11 @@
 
     section#redes-sociais img {
         width: 40px;
+    }
+
+    section#telefone {
+    position: absolute;
+    left: 40%;
+}
 
 }
